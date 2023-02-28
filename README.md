@@ -1,28 +1,18 @@
-# To Application 🌤
+# To-Do List Application 📝
 
+It is a To-Do list application made by using React JS ⚛️.
 
-It is a simple Weather Application made by using React JS ⚛️.
-
-This application gives all the weather-related information of a country 🌍.
+This application helps to prioritise the tasks you need to complete, or things that you want to do.
 
 ## Demo - Deployed over Github Pages 📝
-https://aadityabhargav18.github.io/weatherapp/
+https://aadityabhargav18.github.io/to_do-list/
 
 
 ## Screenshot of UI 📸
-![Screenshot (392)](https://user-images.githubusercontent.com/67166208/221845518-38b8cfe1-1f70-4bb0-a05c-db8360d9300c.png)
+![Screenshot (394)](https://user-images.githubusercontent.com/67166208/221954288-60a929fd-9c79-4a02-b9a2-f7f282c2d79a.png)
 
 ## Tech Stack 💻
 **Client:** React ⚛️
-
-## API's used 🔑
-https://openweathermap.org/
-
-https://openweathermap.org/current
-
-## API Info 🔑
-1. Method : `GET`
-2. URL : `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
 
 ## Font 🗚
 1. Font Link : `<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">`
